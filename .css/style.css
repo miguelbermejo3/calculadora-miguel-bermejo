@@ -1,0 +1,46 @@
+table {
+    width: 100%;
+}
+
+
+
+.aspecto{
+    display: block;
+    margin:0 auto;
+    padding: 25px;
+    background-color: rgb(3, 156, 245);
+    width: 400px;
+    height: 650px;
+    border-radius: 26px;
+    
+}
+.aspecto td button{
+    display: block;
+    width: 75px;
+    height: 75px;
+    font-size: 30px;
+
+}
+#result{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width: 350px;
+    height: 150px;
+    line-height: 150px;
+    background-color: white;
+    border-radius: 26px;
+    overflow-y: scroll;
+}
+#color{
+    background-color: orangered;
+}
+body{
+    margin-top: 100px;
+    background-size: cover;
+   
+}
+.imagen{
+    background-size: cover;
+}
